@@ -156,6 +156,12 @@ Features such as GPA calculation, credit-limit checking, searching, updating, CS
 
 ## 9. Screenshots
 
+ADD STUDENT
+<img width="1720" height="914" alt="Add" src="https://github.com/user-attachments/assets/88d4c52a-57af-4f83-a656-b9a2e6f6e7ea" />
+
+
+
+
 
 ---
 
