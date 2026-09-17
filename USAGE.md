@@ -57,4 +57,4 @@ The application includes sample data for testing:
 - 3 sample students
 - 3 sample courses
 
-You can add more data through the menu system or by importing CSV files.
+You can add more data through the menu system or by importing CSV Files
